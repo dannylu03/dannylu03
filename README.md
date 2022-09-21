@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **dannylu03/dannylu03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +16,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">Hey! I'm Danny, and I'm from Toronto, Canada 👋😄 </h2>
 
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in Electronics Engineering from IIT (BHU), Varanasi :student:. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
+<p align="center">I'm currently a second year student pursuing my Bachelor of Science in Computer Science at the University of Toronto - St. George. I love making full-stack applications and am exploring more into machine learning and computer vision!
 </p>
 
-<p align="center">When I'm not developing and coding, you can find me watching Netflix, Sports or listening to music. Playing football :soccer: was also on that list, but quarantine has removed that for now 😢. Memes are something that are appreciated very much 😂. </p>
+<p align="center">When I'm not coding, I'm often playing basketball :basketball:, working out, playing piano, or watching netflix/anime!</p>
 
 <p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
