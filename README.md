@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center">Hey! I'm Danny, and I'm from Toronto, Canada 👋😄 </h2>
-
+<!-- 
 <p align="center">I'm currently a second year student pursuing my Bachelor of Science in Computer Science at the University of Toronto - St. George. I love making full-stack applications and am exploring more into machine learning and computer vision!
-</p>
+</p> -->
 
-<p align="center">When I'm not coding, I'm often playing basketball :basketball:, working out :weight_lifting:, playing piano :notes:, or watching netflix/anime!</p>
+<!-- <p align="center">When I'm not coding, I'm often playing basketball :basketball:, working out :weight_lifting:, playing piano :notes:, or watching netflix/anime!</p> -->
 
 <p align="center"> <a href="https://www.linkedin.com/in/danny-lu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/danny_lu03/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
