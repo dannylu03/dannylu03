@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hey! I'm Danny, and I'm from Toronto, Canada 👋😄 </h2>
